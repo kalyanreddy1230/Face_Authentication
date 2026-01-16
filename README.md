@@ -23,7 +23,7 @@ Dlib is required for face recognition and image processing functionalities.
 ### 🧱 CMake (Build Tool)
 ➡️ [Download CMake](https://cmake.org/download/)
 
-CMake is needed to compile native libraries such as Dlib during setup.
+CMake is needed to compile native libraries such as Dlib during setup. 
 
 ---
 
