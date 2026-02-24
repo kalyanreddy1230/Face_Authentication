@@ -80,6 +80,8 @@ PostgreSQL is used to store authentication logs (name, image paths, date, time).
     source venv/bin/activate
 
     pip install -r requirements.txt
+
+    pip install face_recognition
 ```
 
 ### RUN BACKEND 
